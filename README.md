@@ -1,5 +1,6 @@
 # 2023-03-23 4주차 c언어 실습
 
+```C
 
 #define _CRT_SECURE_NO_WARRINGS
 #include <stdio.h>
@@ -35,3 +36,4 @@ int main(void)
 
 
 } 
+```
